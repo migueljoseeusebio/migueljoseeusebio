@@ -1,6 +1,7 @@
 # Miguel José Eusébio
 
 Logistics professional developing skills in data analytics, systems and AI.
+[LinkedIn](https://www.linkedin.com/in/migueljoseeusebio/) · [ATLAS Logistics Analytics](https://github.com/migueljoseeusebio/ATLAS-Logistics-Analytics)
 
 I am building practical analytical capabilities around logistics operations, data quality, performance measurement and decision support.
 
