@@ -1,16 +1,30 @@
-## Hi there 👋
+# Miguel José Eusébio
 
-<!--
-**migueljoseeusebio/migueljoseeusebio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Logistics professional developing skills in data analytics, systems and AI.
 
-Here are some ideas to get you started:
+I am building practical analytical capabilities around logistics operations, data quality, performance measurement and decision support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current project
+
+### [ATLAS Logistics Analytics](https://github.com/migueljoseeusebio/ATLAS-Logistics-Analytics)
+
+An end-to-end portfolio project connecting:
+
+- Excel validation
+- Power Query and data quality
+- Dimensional data modelling
+- Power BI and DAX
+- PostgreSQL analysis
+- Logistics KPI governance
+- Executive data storytelling
+- ERP-to-TMS integration concepts
+
+## Tools and areas
+
+`Excel` · `Power Query` · `Power BI` · `DAX` · `SQL` · `PostgreSQL` · `Logistics Analytics` · `Data Quality`
+
+## Working approach
+
+> Problem → Data → Method → Validation → Insight → Decision
+
+AI supports the work, but every result must be understood, tested and validated before it becomes evidence.
